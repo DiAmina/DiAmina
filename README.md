@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiAmina
+- 👋 Hi, I’mAmina
 - 👀 I’m very interested in 3D printing and electonics. My passion is aeronautics
 - 🌱 I’m currently learning computer science. Right now, I'm interested in creating design graphics
 - 💞️ I’m looking to collaborate on differents concepts concept around digital 
