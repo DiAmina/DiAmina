@@ -1,5 +1,5 @@
-- 👋 Hi, I’mAmina
-- 💞️ I’m looking to collaborate on differents concepts concept around digital 
+- 👋 Hi, I’m Amina
+- 💞️ I’m looking to collaborate on differents concepts around digital 
 - 📫 How to reach me. Sent me an email to amina.madi@etu.iut-tlse3.fr
 
 <!---
