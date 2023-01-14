@@ -5,9 +5,9 @@
 
 - 🌱 J'apprends actuellement **PL/ SQL,Scrum method**
 
-- 🤝 Je cherche de l'aide pour un **stage**
+- 🤝 Je cherche **un stage**
 
-- 📫 Comment me contacter **amina.madi97630@gmail.com**
+- 📫 Envoyez-moi un e-mail sur **amina.madi97630@gmail.com**
 
 - ⚡ Fun fact **Je ne bois pas de café, à la bonheur !**
 
