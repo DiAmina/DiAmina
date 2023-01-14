@@ -1,17 +1,17 @@
-<h1 align="center">Salut 👋, je suis Amina</h1>
+<h1 align="center">Bonjour 👋, Heureuse de vous rencontrer, je suis Amina</h1>
 <h3 align="center">Etudiante en 2 année de BUT informatique</h3>
 
 - 🔭 Je travaille actuellement sur **un site de gestion d'une équipe de sport developper en HTML/CSS PHP, PHPMyAdmin**
 
 - 🌱 J'apprends actuellement **PL/ SQL,Scrum method**
 
-- 🤝 Je cherche **un stage**
+- 🤝 Je recherche **un stage **
 
-- 📫 Envoyez-moi un e-mail sur **amina.madi97630@gmail.com**
+- 📫 Envoyez-moi un email sur **amina.madi97630@gmail.com**
 
-- ⚡ Fun fact **Je ne bois pas de café, à la bonheur !**
+- ⚡ Fun fact **Je ne bois pas de café, à la bonheur!**
 
-<h3 align="left">Contactez-moi :</h3 >
+<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amina-madi-7a0741252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amina-madi-7a0741252/" height="30" width="40" /></ a>
 <a href="https://discord.gg/Amina#9425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/discord.svg" alt="Amina#9425" height="30" width="40" /></a>
