@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **PL/ SQL,Scrum method**
 
-- 🤝 Je recherche **un stage **
+- 🤝 Je recherche **an internalship **
 
 - 📫 Envoyez-moi un email sur **amina.madi97630@gmail.com**
 
