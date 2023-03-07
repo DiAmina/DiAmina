@@ -1,13 +1,11 @@
-<h1 align="center">Bonjour 👋, Heureuse de vous rencontrer, je suis Amina</h1>
+<h1 align="center">Salam 👋</h1>
 <h3 align="center">Etudiante en 2 année de BUT informatique</h3>
 
-- 🔭 Je travaille actuellement sur **un site de gestion d'une équipe de sport developper en HTML/CSS PHP, PHPMyAdmin**
+- 🔭 Je travaille actuellement sur **la création d'un site de blog d'article avec une structure de APIREST**
 
-- 🌱 J'apprends actuellement **PL/ SQL,Scrum method**
+- 🌱 J'apprends actuellement **SQLite, PowerBI, APIREST**
 
-- 🤝 Je recherche **an internship**
-
-- 📫 Envoyez-moi un email sur **amina.madi97630@gmail.com**
+- 🤝 Je recherche **un stage**
 
 - ⚡ Fun fact **Je ne bois pas de café, à la bonheur!**
 
