@@ -1,7 +1,7 @@
 <h1 align="center">Salam 👋</h1>
 <h3 align="center">Etudiante en 2 année de BUT informatique</h3>
 
-- 🔭 Je travaille actuellement sur **la création d'un site de blog d'article avec une structure de APIREST**
+- 🔭 Je travaille actuellement sur **la création d'un site de blog d'article sur une architecture de REST**
 
 - 🌱 J'apprends actuellement **SQLite, PowerBI, APIREST**
 
