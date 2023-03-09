@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for **an internship**
 
-- 📫 Send me an email on **amina.madi97630@gmail.com**
-
 - ⚡ Fun fact **Je ne bois pas de café, à la bonheur!**
 
 <h3 align="left">Connect with me:</h3>
