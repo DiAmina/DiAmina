@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋!</h1>
+<h1 align="center">Salut 👋!</h1>
 <h3 align="center">Etudiante en 2 année de BUT informatique</h3>
 
 - 🔭 I’m currently working on **un site de gestion d'une équipe de sport developper en HTML/CSS PHP, PHPMyAdmin**
