@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
-- 🔭 I’m currently working on [open source bug management software.](https://www.mantisbt.org/)
+- 🔭 I’m currently working on open source bug management software https://www.mantisbt.org/
 
 - 🌱 I’m currently **in internship**
 
