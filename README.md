@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
-- 🔭 I’m currently working on open source bug management software https://www.mantisbt.org/
+- 🔭 I'm currently working on sentiment prediction in the context of deep learning
 
-- 🌱 I’m currently **in internship**
+- 🌱 I'm looking for an internship ideally involving **computers, home automation and electronics**
 
 - ⚡ Fun fact **I don't drink cofee**
 
