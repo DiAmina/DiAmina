@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 
-- 🌱 I'm looking for an occupation ideally involving **computers science, data base, software development**
+- 🌱 I'm looking for an occupation ideally involving **computers science, data base, software development, electonics**
 
 - ⚡ Fun fact **I don't drink cofee, hihi**
 
